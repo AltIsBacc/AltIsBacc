@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AltIsBacc
 - 👀 I’m interested in ... Rendering systems & Modding
-- 🌱 I’m currently learning ... Web Development (Typescript + Typescript TSX)
+- 🌱 I’m currently learning ... Web Development (Typescript + Typescript JSX)
 - ✔️ I know ... Rust, C, C++, Java, Javascript, Lua, Luau, Python, C#, Bash
 
 <!---
