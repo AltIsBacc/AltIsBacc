@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AltIsBacc
+- 👋 Hi, I’m @ThatMG393 (in a different vessel)
 - 👀 I’m interested in ... Rendering systems & Modding
 - 🌱 I’m currently learning ... Web Development (Typescript + Typescript JSX)
 - ✔️ I know ... Rust, C, C++, Java, Javascript, Lua, Luau, Python, C#, Bash
